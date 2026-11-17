@@ -17,6 +17,8 @@ Then it prints two things and stops:
 
 It never runs the prompt.
 
+A diagram of the run is in [docs/how-it-works.excalidraw](docs/how-it-works.excalidraw); open it at excalidraw.com or with an Excalidraw editor extension.
+
 ## What it guarantees
 
 - **No questions.** Where your message is ambiguous the experts choose as an expert would and tell you what they chose.
@@ -41,7 +43,7 @@ A run starts the three experts one after another, plus a second pass when the ch
 ## Install
 
 ```
-git clone <this repository> ~/.claude/skills/enhance-prompt
+git clone https://github.com/hamawebdev/enhance-prompt ~/.claude/skills/enhance-prompt
 ```
 
 The folder name must be `enhance-prompt`. Requires a Claude Code version that can start subagents; without them the skill does the same steps in one context and says that the check was not independent.
