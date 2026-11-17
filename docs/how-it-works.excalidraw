@@ -3562,9 +3562,7 @@
    "endArrowhead": "arrow",
    "strokeStyle": "dashed",
    "strokeColor": "#e03131",
-   "roundness": {
-    "type": 2
-   },
+   "roundness": null,
    "elbowed": false,
    "angle": 0,
    "backgroundColor": "transparent",
@@ -3588,7 +3586,7 @@
   {
    "type": "text",
    "x": 840,
-   "y": 708,
+   "y": 674,
    "width": 561.6800000000001,
    "height": 21.25,
    "text": "the checker reads only your original message and the prompt",
@@ -3654,9 +3652,7 @@
    "endArrowhead": "arrow",
    "strokeStyle": "dashed",
    "strokeColor": "#2f9e44",
-   "roundness": {
-    "type": 2
-   },
+   "roundness": null,
    "elbowed": false,
    "angle": 0,
    "backgroundColor": "transparent",

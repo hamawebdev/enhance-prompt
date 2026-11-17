@@ -17,7 +17,9 @@ Then it prints two things and stops:
 
 It never runs the prompt.
 
-A diagram of the run is in [docs/how-it-works.excalidraw](docs/how-it-works.excalidraw); open it at excalidraw.com or with an Excalidraw editor extension.
+![How a run of the skill works](docs/how-it-works.svg)
+
+The editable source of this diagram is [docs/how-it-works.excalidraw](docs/how-it-works.excalidraw).
 
 ## What it guarantees
 
