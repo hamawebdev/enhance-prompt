@@ -79,6 +79,8 @@ Sentences that give a "how" away, and what to write instead:
 | "release through the pipeline" (a route) | "it is live for the client's customers" |
 | "record decisions in the decision log" (a place in the project) | "each decision is written down where the client can read it later" |
 | "do the rename after the other two" (an order of work) | say which requirement matters most, and nothing about sequence |
+| "research first, before building" when the owner wrote only "research the best way" (an order added to the owner's way of working) | "research the best way to do this", as the owner said it |
+| "you lead and your team builds" when the owner asked for no team (a team shape) | say who decides, and nothing about how the work is staffed |
 
 Before you finish, read each sentence against this table and rewrite any that names a way.
 
